@@ -27,3 +27,6 @@ Projeto desenvolvido como desafio prático na plataforma **DIO**.
 
 ## 📁 Arquivo do Projeto
 - 📄 [Baixar Simulador de Investimentos (Simulador de investimento.xlsx)](./Simulador%20de%20investimento.xlsx)
+
+- <img width="430" height="474" alt="Captura de tela 2026-08-19 140454" src="https://github.com/user-attachments/assets/a9e77c0c-d0e4-4943-b625-b98a48ff20f4" />
+
