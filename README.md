@@ -2,6 +2,8 @@
 
 Projeto desenvolvido como desafio prático na plataforma **DIO**.
 
+Projeto desenvolvido no Excel para simular e controlar investimentos. A ferramenta realiza projeções de patrimônio acumulado e dividendos mensais com base em prazos e taxas informadas pelo usuário, além de apresentar a distribuição de carteira e cenários futuros com gráficos visuais. Documentação e arquivo inclusos no repositório.
+
 ---
 
 ## 📌 Objetivos do Projeto
